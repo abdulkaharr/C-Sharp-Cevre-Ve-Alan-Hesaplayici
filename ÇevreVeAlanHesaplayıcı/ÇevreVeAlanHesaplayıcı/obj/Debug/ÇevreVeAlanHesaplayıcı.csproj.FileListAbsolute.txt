@@ -1,0 +1,10 @@
+C:\Users\mehmet\source\repos\ÇevreVeAlanHesaplayıcı\ÇevreVeAlanHesaplayıcı\bin\Debug\ÇevreVeAlanHesaplayıcı.exe.config
+C:\Users\mehmet\source\repos\ÇevreVeAlanHesaplayıcı\ÇevreVeAlanHesaplayıcı\bin\Debug\ÇevreVeAlanHesaplayıcı.exe
+C:\Users\mehmet\source\repos\ÇevreVeAlanHesaplayıcı\ÇevreVeAlanHesaplayıcı\bin\Debug\ÇevreVeAlanHesaplayıcı.pdb
+C:\Users\mehmet\source\repos\ÇevreVeAlanHesaplayıcı\ÇevreVeAlanHesaplayıcı\obj\Debug\ÇevreVeAlanHesaplayıcı.csprojAssemblyReference.cache
+C:\Users\mehmet\source\repos\ÇevreVeAlanHesaplayıcı\ÇevreVeAlanHesaplayıcı\obj\Debug\ÇevreVeAlanHesaplayıcı.Form1.resources
+C:\Users\mehmet\source\repos\ÇevreVeAlanHesaplayıcı\ÇevreVeAlanHesaplayıcı\obj\Debug\ÇevreVeAlanHesaplayıcı.Properties.Resources.resources
+C:\Users\mehmet\source\repos\ÇevreVeAlanHesaplayıcı\ÇevreVeAlanHesaplayıcı\obj\Debug\ÇevreVeAlanHesaplayıcı.csproj.GenerateResource.cache
+C:\Users\mehmet\source\repos\ÇevreVeAlanHesaplayıcı\ÇevreVeAlanHesaplayıcı\obj\Debug\ÇevreVeAlanHesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\source\repos\ÇevreVeAlanHesaplayıcı\ÇevreVeAlanHesaplayıcı\obj\Debug\ÇevreVeAlanHesaplayıcı.exe
+C:\Users\mehmet\source\repos\ÇevreVeAlanHesaplayıcı\ÇevreVeAlanHesaplayıcı\obj\Debug\ÇevreVeAlanHesaplayıcı.pdb
