@@ -1,1 +1,3 @@
-# the-project-area
+
+Kod  Sade ve anlaşılır
+Umarım beğenirsiniz
